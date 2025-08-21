@@ -24,7 +24,7 @@
 
 ### 📊 GitHub 활동
 ![GitHub followers](https://img.shields.io/github/followers/channykim00?style=social)
-![GitHub following](https://img.shields.io/github/following/channykim00?style=social)
+![Github followingFollowing](https://img.shields.io/badge/Following-32-green?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/channykim00?style=social)
 
 ---
